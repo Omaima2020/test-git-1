@@ -3,8 +3,4 @@
 
  R‚pertoire de C:\Users\omaima.benbouk\Desktop\Test GIT 1\test-git-1
 
-28/02/2021  15:35    <DIR>          .
-28/02/2021  15:35    <DIR>          ..
-28/02/2021  15:35                 0 test.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  356ÿ746ÿ399ÿ744 octets libres
+
